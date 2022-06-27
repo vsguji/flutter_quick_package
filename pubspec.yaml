@@ -2,7 +2,7 @@ name: flutter_quick_package
 description: 网络层，基于映射能力提供模块分离能力
 version: 0.0.1
 homepage: "https://github.com/vsguji/flutter_quick_package.git"
-publish_to: "https://github.com/vsguji/flutter_quick_package.git"
+#publish_to: "https://github.com/vsguji/flutter_quick_package.git"
 
 environment:
   sdk: ">=2.10.0 <3.0.0"
